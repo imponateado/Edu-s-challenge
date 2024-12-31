@@ -19,7 +19,7 @@ A Flask API that wraps the PokeAPI to provide filtered Pokemon data.
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/imponateado/Edu-s-challenge
 ```
 
 2. Install dependencies:
